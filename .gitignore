@@ -1,0 +1,56 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+data/
+dataset/
+datasets/
+chest_xray/
+*.zip
+*.rar
+*.7z
+
+# Trained model files
+*.h5
+*.keras
+*.ckpt
+*.pth
+*.pt
+
+# TensorFlow logs / checkpoints
+logs/
+checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Python environment / secrets
+.env
+*.env
+
+# Kaggle credentials or API keys
+kaggle.json
+
+# Generated cache
+.cache/
